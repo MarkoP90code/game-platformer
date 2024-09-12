@@ -1,0 +1,14 @@
+{
+  "name": "game-platformer",
+  "version": "1.0.0",
+  "description": "Collect checkpoints nad finish the game",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Marko P",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.12.0"
+  }
+}
